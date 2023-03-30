@@ -26,4 +26,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 📱 Projeto
 
--  [Visite o projeto online](https://iaguin11.github.io/nlw-setup/)
+-  [Visite o projeto online](https://iaguin11.github.io/Calculadora/)
